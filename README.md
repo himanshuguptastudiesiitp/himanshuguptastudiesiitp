@@ -43,7 +43,11 @@ GitHub account data shown in the ID visual is dated **1 November 2026**: **20 pu
 ## 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=himanshuguptastudiesiitp&theme=radical&no-frame=true&no-bg=true&margin-w=4" width="100%" />
+  <img
+    src="https://trophy.ryglcloud.net/?username=himanshuguptastudiesiitp&theme=radical&no-frame=true&no-bg=true&margin-w=4"
+    width="100%"
+    alt="Himanshu Kumar's GitHub Trophies"
+  />
 </p>
 
 ## Asset notes
