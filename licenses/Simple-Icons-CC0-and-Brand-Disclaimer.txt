@@ -1,9 +1,0 @@
-SIMPLE ICONS — CC0 1.0 UNIVERSAL
-
-The Simple Icons project releases its icon collection under CC0 1.0 Universal, to the extent possible under law. The icon artwork used in these SVGs was converted from Simple Icons font glyph outlines into inline SVG paths. The SVGs contain no requests to the Simple Icons CDN or any remote asset host.
-
-Project: https://github.com/simple-icons/simple-icons
-Project license: https://github.com/simple-icons/simple-icons/blob/develop/LICENSE.md
-Usage disclaimer: https://github.com/simple-icons/simple-icons/blob/develop/DISCLAIMER.md
-
-IMPORTANT: CC0 applies to the Simple Icons contribution, not to the underlying company names, logos, or trademarks. Individual brand assets may be subject to separate trademark, copyright, or brand-guideline requirements. Verify each brand's current legal requirements before commercial use.
